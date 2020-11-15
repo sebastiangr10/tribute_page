@@ -1,0 +1,29 @@
+body {
+    font-family: system-ui;
+     background: yellow;
+     text-align:center;
+   color: green;}
+   h1{
+     font-family: fantasy;
+     font-size: 70px;
+   }
+   h3{
+     font-family:monospace;
+     font-size: 40px;
+   }
+   li{
+     text-align:left;
+   }
+   .logros{
+     text-align:left
+   }
+   img{
+     border:10px solid green;
+     border-radius: 50%
+   }
+   p{font-family:cursive;
+   font-size:20px;}
+   #image-caption {
+    
+     font-size:10px;
+   }
